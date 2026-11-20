@@ -1,0 +1,20 @@
+{
+  "default": [
+    {
+      "name": "Indian Institute of Horticultural Research",
+      "city": "Bengaluru",
+      "category": "diagnostic center",
+      "lat": 13.1304,
+      "lng": 77.4989,
+      "badge": "Popular"
+    },
+    {
+      "name": "Pesticide and Fertilizer Center",
+      "city": "Bengaluru",
+      "category": "fertilizer shop",
+      "lat": 12.9716,
+      "lng": 77.5946,
+      "badge": "Recommended"
+    }
+  ]
+}
